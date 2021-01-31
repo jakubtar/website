@@ -120,10 +120,4 @@ footer div.right {
   background-image: url(images/memer.gif);
   color: pink;
 }
-
-@media screen and (max-width: 400px) {
-    .features {
-        background: red;
-}
-
-
+ 
