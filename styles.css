@@ -103,6 +103,18 @@ width: 5%;
 margin: 1px;
 color: black;
 }
+.doge{
+    width:20%;
+  /*aspect ratio will be maintained*/
+  
+  }
+  
+  .image{
+  display:none;
+  position:absolute;
+  
+  
+   }
 
 /* footer */
 
